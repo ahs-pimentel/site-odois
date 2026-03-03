@@ -41,11 +41,11 @@ export function Cases() {
             Portfolio
           </span>
           <h2 className="mt-3 text-3xl sm:text-4xl font-bold text-odois-gray-900">
-            Cases de <span className="gradient-text">sucesso</span>
+            Cases de <span className="gradient-text">sucesso</span> em desenvolvimento de software
           </h2>
           <p className="mt-4 text-lg text-odois-gray-600">
-            Projetos que desenvolvemos com dedicação e que geraram resultados
-            reais para nossos clientes.
+            Projetos de software sob medida que desenvolvemos com dedicação e que
+            geraram resultados reais para nossos clientes.
           </p>
         </div>
 

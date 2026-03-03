@@ -41,18 +41,19 @@ export function About() {
               Sobre a oDois
             </span>
             <h2 className="mt-3 text-3xl sm:text-4xl font-bold text-odois-gray-900">
-              Tecnologia que{" "}
+              Software house brasileira que{" "}
               <span className="gradient-text">impulsiona negócios</span>
             </h2>
             <p className="mt-6 text-lg text-odois-gray-600 leading-relaxed">
               A oDois nasceu da paixão por criar produtos digitais excepcionais.
-              Somos uma software house brasileira especializada em desenvolvimento
-              de software sob demanda, aplicativos mobile e sistemas web.
+              Somos uma software house especializada em desenvolvimento de software
+              sob medida, aplicativos mobile e sistemas web para empresas em todo
+              o Brasil.
             </p>
             <p className="mt-4 text-lg text-odois-gray-600 leading-relaxed">
-              Nossa missão é transformar ideias em produtos digitais que fazem
-              a diferença. Combinamos expertise técnica com visão de negócio para
-              entregar soluções que realmente funcionam.
+              Com base em Brasília (DF) e atuação nacional, combinamos expertise
+              técnica com visão de negócio para entregar software personalizado
+              que gera resultados reais.
             </p>
 
             {/* Differentials */}

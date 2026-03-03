@@ -14,43 +14,43 @@ const services = [
     icon: Globe,
     title: "Desenvolvimento Web",
     description:
-      "Criamos plataformas web modernas, responsivas e otimizadas para performance. Desde landing pages até sistemas complexos de gestão.",
+      "Criamos sistemas web sob medida: plataformas SaaS, portais corporativos e aplicações complexas com React e Next.js.",
     features: ["React & Next.js", "Node.js", "APIs RESTful", "SEO otimizado"],
   },
   {
     icon: Smartphone,
     title: "Aplicativos Mobile",
     description:
-      "Apps nativos e multiplataforma para iOS e Android. Experiências mobile fluidas que engajam seus usuários.",
+      "Desenvolvimento de aplicativos mobile para iOS e Android com React Native. Apps profissionais que engajam usuários.",
     features: ["React Native", "iOS & Android", "UI/UX nativo", "Push notifications"],
   },
   {
     icon: Database,
     title: "Sistemas sob Demanda",
     description:
-      "Software personalizado para atender às necessidades específicas do seu negócio. ERPs, CRMs e sistemas de gestão.",
+      "Software personalizado para gestão empresarial: ERPs, CRMs e sistemas de automação desenvolvidos sob medida.",
     features: ["Arquitetura escalável", "Integrações", "Dashboards", "Automação"],
   },
   {
     icon: Cloud,
     title: "Cloud & DevOps",
     description:
-      "Infraestrutura cloud robusta e práticas DevOps para garantir disponibilidade e eficiência operacional.",
+      "Infraestrutura cloud robusta na AWS e GCP com práticas DevOps para escalabilidade e alta disponibilidade.",
     features: ["AWS & GCP", "CI/CD", "Monitoramento", "Segurança"],
   },
   {
     icon: Code2,
     title: "APIs & Integrações",
     description:
-      "Desenvolvimento de APIs robustas e integrações com sistemas terceiros. Conecte seu ecossistema digital.",
+      "Desenvolvimento de APIs REST e GraphQL e integrações com sistemas terceiros para conectar seu ecossistema digital.",
     features: ["REST & GraphQL", "Webhooks", "Microservices", "Documentação"],
   },
   {
     icon: Lightbulb,
     title: "Consultoria Técnica",
     description:
-      "Orientação estratégica para decisões tecnológicas. Do MVP à escala, ajudamos a definir o melhor caminho.",
-    features: ["Discovery", "Roadmap", "Code review", "Mentoria"],
+      "Orientação estratégica para decisões tecnológicas: do MVP ao product-market fit, definimos o melhor caminho.",
+    features: ["Discovery de produto", "Roadmap", "Code review", "Mentoria"],
   },
 ];
 
@@ -64,12 +64,12 @@ export function Services() {
             Nossos Serviços
           </span>
           <h2 className="mt-3 text-3xl sm:text-4xl font-bold text-odois-gray-900">
-            Soluções completas para seu{" "}
-            <span className="gradient-text">produto digital</span>
+            Desenvolvimento de software{" "}
+            <span className="gradient-text">sob medida</span> para o seu negócio
           </h2>
           <p className="mt-4 text-lg text-odois-gray-600">
-            Da ideia à implementação, oferecemos todo o suporte necessário para
-            transformar seu projeto em realidade.
+            Da ideia à implementação, nossa software house oferece todo o suporte
+            para transformar seu projeto em um produto digital de alta performance.
           </p>
         </div>
 
